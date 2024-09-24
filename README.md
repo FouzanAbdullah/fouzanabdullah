@@ -5,7 +5,7 @@
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp, aws, github, git, go, html, js, cpp, css, firebase, mongodb, mysql, nextjs, nodejs, postgres, py, react, supabase, tailwind, sveltekit, figma, docker, ts&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,aws,github,git,go,html,js,cpp,css,firebase,mongodb,mysql,nextjs,nodejs,postgres,py,react,supabase,tailwind,sveltekit,figma,docker,ts&perline=12" />
   </a>                                        
 </p>
 
