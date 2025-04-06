@@ -1,5 +1,5 @@
 <h1 align="center"><👋 Hello, World!/></h1>
-<h3 align="center">I’m Fouzan, a full stack developer with a passion for databases, APIs, and analytics.</h3>
+<h3 align="center">I’m Fouzan, an aspiring Gen AI Engineer with a passion for databases, APIs, and analytics.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fouzanabdullah&label=Profile%20views&color=blueviolet&style=flat" alt="fouzanabdullah" /> </p>
 
 <h1 align="center">Skills</h1>
